@@ -1,0 +1,40 @@
+*{
+    font-family: 'Tilt Neon', cursive;
+}
+body{
+    background-color:lightsalmon;
+    text-align: center;
+}
+.opening{
+  background-color:blanchedalmond;
+  display: flex;
+  text-align: center;
+}
+h1{
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 15px;
+}
+img{
+    height: 90px;
+    width: 90px;
+}
+.container-fluid{
+    padding-top:10%;
+}
+.input ,.result{
+    font-size: 200%;
+}
+.btn{
+    font-size: 150%;
+}
+button{
+    margin-left: 3%;
+}
+.result{
+    margin-right: 1%;
+}
+footer{
+    margin-top: 8%;
+    font-size: 20px;
+}
